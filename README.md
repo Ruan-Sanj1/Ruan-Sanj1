@@ -9,7 +9,6 @@
 - Aprendi o básico de Javascript.
 - Estou aprendendo HTML5 e CSS.
 - Planejo aprender phyton.
-- Sou professor e tenho trabalho fixo, mas planejo largar tudo pra programar um dia :D
 
 ##### Referências e contatos:
 Email: ruanvictorrodrigues@hotmail.com
