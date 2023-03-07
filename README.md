@@ -1,13 +1,14 @@
 # Sobre mim
-- Professor de matemática, educação financeira e programação para iniciantes.
+- Professor de matemática, educação financeira, pensamento computacional e programação.
 - Inglês avançado.
-- Amando aprender novas linguagens de programação.
-- Perco o tempo programando, principalmente nos meus dias de folga.
+- Estudando programação.
+- Programos nos meu dias de folga por hobbie.
 
 ##### Aprendendo/Aprendido/ Interessado:
-- Comecei com o Scratch em inglês até dominar.
-- Aprendi o básico de Javascript.
-- Estou aprendendo HTML5 e CSS.
+- Scratch
+- Construct
+- Figma
+- HTML5 e CSS.
 - Planejo aprender phyton.
 
 ##### Referências e contatos:
