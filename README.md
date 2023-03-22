@@ -2,7 +2,7 @@
 - Professor de matemática, educação financeira, pensamento computacional e programação.
 - Inglês avançado.
 - Estudando programação.
-- Programos nos meu dias de folga por hobbie.
+- Programo nos meu dias de folga por hobbie.
 
 ##### Aprendendo/Aprendido/ Interessado:
 - Scratch
