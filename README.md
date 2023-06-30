@@ -9,7 +9,7 @@
 - Construct
 - Figma
 - HTML5 e CSS.
-- Planejo aprender phyton.
+- Aprendendo Java e JavaScript.
 
 ##### Referências e contatos:
 Email: ruanvictorrodrigues@hotmail.com
