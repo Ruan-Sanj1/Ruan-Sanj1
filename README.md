@@ -9,7 +9,7 @@
 - Construct
 - Figma
 - HTML5 e CSS.
-- Aprendendo Java e JavaScript.
+- Aprendendo JavaScript focado em Full-stack.
 
 ##### Referências e contatos:
 Email: ruanvictorrodrigues@hotmail.com
